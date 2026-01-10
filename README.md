@@ -1,5 +1,5 @@
 ## Hello
-I am bucket and i create open source apps and games 
+I am bucket and i create apps and games 
 
 Check out my website:
 https://realbucketofchicken.github.io/realbucketofchicken/
